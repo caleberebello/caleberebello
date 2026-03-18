@@ -17,8 +17,8 @@ Ambiente com:
 - Mikrotik RB760iGS (roteador)
 - Serviços como Pi-hole, Nextcloud, Nginx e Pterodactyl
 
-📁 Veja meus projetos:  
-👉 [Homelab Network Projects](https://github.com/caleberebello/homelab-portfolio)
+📁 Veja meu portfolio:  
+👉 [Homelab](https://github.com/caleberebello/homelab-portfolio)
 
 ## 🛠️ Tecnologias
 - Mikrotik RouterOS
