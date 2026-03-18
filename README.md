@@ -8,6 +8,7 @@ Tenho foco em:
 - Virtualização (Proxmox)
 - Serviços internos (DNS, Cloud, Web)
 - Backup e armazenamento (TrueNAS, Veeam)
+- Cabeamento estruturado
 
 ## 🧱 Homelab
 
